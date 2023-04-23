@@ -4,7 +4,7 @@
 
 To run all the test cases, use the command ```python -m unittest discover -s tests```
 
-Also you can run a single test module, a single TestCase or a single test method
+Also you can run a single test module, a single ```unittest.TestCase``` or a single test method
 
 ```
 python -m unittest tests.<test_module>
